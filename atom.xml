@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://vanfeng.icu/"/>
   <updated>2020-07-30T14:44:19.944Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://vanfeng.icu/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>van Feng</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/30/hello-world/"/>
-    <id>http://yoursite.com/2020/07/30/hello-world/</id>
+    <link href="https://vanfeng.icu/2020/07/30/hello-world/"/>
+    <id>https://vanfeng.icu/2020/07/30/hello-world/</id>
     <published>2020-07-30T14:44:19.944Z</published>
     <updated>2020-07-30T14:44:19.944Z</updated>
     
